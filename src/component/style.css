@@ -1,0 +1,8 @@
+#image1,#image2{
+   background-image: url(./image/banner.png);
+   background-position: center;
+   background-size: cover;
+}
+.full {
+    padding-top: 6%;
+}
